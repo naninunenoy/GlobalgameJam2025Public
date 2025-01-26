@@ -1,0 +1,21 @@
+{
+    "name": "BubbleCrab",
+    "rootNamespace": "BubbleCrab",
+    "references": [
+        "Unity.TextMeshPro",
+        "UniTask",
+        "Unity.InputSystem",
+        "Unity.Cinemachine",
+        "DOTween.Modules",
+        "UniTask.DOTween"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
